@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JimKnechtBrynka
 - 👀 I’m interested in things and stuff
-- 🌱 I’m currently learning NodeJS (for work), Flutter/Dart, Python, C#/Unity
+- 🌱 I’m currently learning NodeJS for work and also Flutter/Dart, Python, C#/Unity for me
 - 💞️ I’m looking to collaborate on anything and nothing all at once.
 - 📫 How to reach me ... I'll meet you at Mt. Doom, no really I will.
 
